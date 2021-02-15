@@ -31,24 +31,24 @@ Roles:
 
 
 ## Login Page
-![Login](image/Login.png)
+![Login](image/Login.PNG)
 
 ## Home Page
 ![Home](image/Home.png)
 
 ## List of Airport
-![airport](image/airportList.png)
+![airport](image/airportList.PNG)
 
 ## List of Aircraft
-![airport](image/aircraftList.png)
+![airport](image/aircraftList.PNG)
 
 ## List of Flight
-![flight](image/flightList.png)
+![flight](image/flightList.PNG)
 
 ## Booking Flight
-![booking](image/bookAflight.png)
+![booking](image/bookAflight.PNG)
 
 
 ## Veryfy flight
-![veryfy](image/veryfybooking.png)
+![veryfy](image/veryfybooking.PNG)
 
